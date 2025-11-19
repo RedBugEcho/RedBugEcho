@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi , I'm Ruslan👋<br><br> 🧑‍🎓I'm 19y.o. student<br/><br> 💁Just begining my journey<br/> <br> ☕️🐍I'm currently learning Java and Python<br/><br><br>
+## Hi , I'm Ruslan👋<br><br> 🧑‍🎓I'm 19y.o. student<br/><br> 💁Just begining my journey<br/> <br> ☕️🐍I'm currently learning Java<br/><br><br>
 
 
 # 💻 Tech Stack:
